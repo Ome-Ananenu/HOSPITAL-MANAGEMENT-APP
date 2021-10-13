@@ -1,0 +1,12 @@
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/controller/PatientController.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/service/PatientServiceImpl.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/service/DoctorService.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/model/PatientDto.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/entity/Patient.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/entity/Doctor.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/controller/DoctorController.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/repo/DoctorRepo.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/repo/PatientRepo.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/service/DoctorServiceImpl.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/service/PatientService.java
+/Users/omenebele.ananenu/Desktop/spring-boot-crud-database/src/main/java/com/ome/springbootcrudoperation/SpringBootCrudOperationApplication.java

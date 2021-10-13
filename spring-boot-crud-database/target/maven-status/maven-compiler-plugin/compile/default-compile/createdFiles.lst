@@ -1,0 +1,12 @@
+com/ome/springbootcrudoperation/entity/Patient.class
+com/ome/springbootcrudoperation/repo/DoctorRepo.class
+com/ome/springbootcrudoperation/repo/PatientRepo.class
+com/ome/springbootcrudoperation/SpringBootCrudOperationApplication.class
+com/ome/springbootcrudoperation/service/DoctorServiceImpl.class
+com/ome/springbootcrudoperation/model/PatientDto.class
+com/ome/springbootcrudoperation/service/PatientServiceImpl.class
+com/ome/springbootcrudoperation/controller/PatientController.class
+com/ome/springbootcrudoperation/entity/Doctor.class
+com/ome/springbootcrudoperation/controller/DoctorController.class
+com/ome/springbootcrudoperation/service/DoctorService.class
+com/ome/springbootcrudoperation/service/PatientService.class
